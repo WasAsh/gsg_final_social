@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689316425242",
+    "project_id": "gsg-final-social",
+    "storage_bucket": "gsg-final-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689316425242:android:b15b848a80b6b91bbe6ba3",
+        "android_client_info": {
+          "package_name": "net.halanet.gsg_final_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689316425242-jpme9udkjhs73jta6a7o23odjcgmd3n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrrNk4KSIRNvvOa9IfKvef2kd3d2eJioA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689316425242-jpme9udkjhs73jta6a7o23odjcgmd3n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
